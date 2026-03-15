@@ -13,7 +13,6 @@ Print-ready halftone art generator — a full Python/PySide6 desktop app.
 - **Preset system** — Named saves with JSON export / import
 - **Real-time low-res preview** + background hi-res full-size render
 - **12 UI themes** — including halftone-specific palettes (Riso, Newsprint, Synthwave, CMYK Lab, Forest Ink…)
-- **Dark title bar** on Windows 10/11
 - **Version checker** via GitHub
 
 ## Requirements
