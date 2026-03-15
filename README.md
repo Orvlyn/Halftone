@@ -41,7 +41,3 @@ python main.py
 ## GitHub
 
 <https://github.com/Orvlyn/Halftone>
-
-## Author
-
-Made with care by **Orvlyn**
