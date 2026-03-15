@@ -1,0 +1,38 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Project-local cache
+.halftone_icon_cache.ico
+
+# Test/coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
